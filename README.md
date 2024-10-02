@@ -7,7 +7,6 @@ In-Vehicle Coupon Recommendation [Dataset]. (2017). UCI Machine Learning Reposit
 ### Repository Organization:
 - `data\`: this folder contains the data set that was examined
 - `data\coupons.csv`: the data set
-- `images\`: this folder contains screenshots of charts and other images
 - `prompt.ipynb`: this file contains the code and analysis for this project
 - `README.md`: this page summarizing the project repository and its content
 
